@@ -48,7 +48,7 @@
    ```html
    <link
      rel="stylesheet"
-     href="https://raw.githubusercontent.com/quuen2024/LiveGo/refs/heads/queen/video-player.css"
+     href="https://raw.githubusercontent.com/quuen2024/LiveGo/refs/heads/queen/newslive.m3u8"
    />
    ```
 
@@ -58,7 +58,7 @@
 
    ```html
    <script
-     src="https://raw.githubusercontent.com/quuen2024/LiveGo/refs/heads/queen/video-player.js"
+     src="https://raw.githubusercontent.com/quuen2024/LiveGo/refs/heads/queen/newssport.m3u8"
      defer
    ></script>
    ```
