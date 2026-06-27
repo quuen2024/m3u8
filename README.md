@@ -48,7 +48,7 @@
    ```html
    <link
      rel="stylesheet"
-     href="https://raw.githubusercontent.com/nexoscreator/html5-custom-video-player/refs/heads/main/video-player.css"
+     href="https://raw.githubusercontent.com/quuen2024/LiveGo/refs/heads/queen/video-player.css"
    />
    ```
 
@@ -58,7 +58,7 @@
 
    ```html
    <script
-     src="https://raw.githubusercontent.com/nexoscreator/html5-custom-video-player/refs/heads/main/video-player.js"
+     src="https://raw.githubusercontent.com/quuen2024/LiveGo/refs/heads/queen/video-player.js"
      defer
    ></script>
    ```
@@ -89,7 +89,7 @@ You can customize the **CSS styles** and **JavaScript functionality** according 
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/quuen2024/api11.git
+   git clone https://github.com/quuen2024/LiveGo.git
    cd html5-custom-video-player
    ```
 
