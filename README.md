@@ -4,25 +4,10 @@
 ![GitHub Code](https://img.shields.io/github/languages/code-size/nexoscreator/html5-custom-video-player.svg?style=flat-square&color=cyan)
 
 ---
-## Online Useable Tools:
-<a href="https://gmtv.netlify.app" target="_blank"><img src="https://gmtv.netlify.app/img/gmtv.png" style="width:auto; height:60px" alt="GM TV Player"></a>
-<a href="https://lolstream.netlify.app" target="_blank"><img src="https://lolstream.netlify.app/img/logo.png" style="width:auto; height:60px" alt="Stream Player"></a>
-<a href="https://pismarttv.netlify.app" target="_blank"><img src="https://pismarttv.netlify.app/img/logo.png" style="width:auto; height:60px" alt="IPTV Player"></a>
-<a href="https://hodliptv.netlify.app" target="_blank"><img src="https://hodliptv.netlify.app/img/logo.png" style="width:auto; height:60px" alt="IPTV Player"></a>
-<a href="https://pixstream.netlify.app" target="_blank"><img src="https://pixstream.netlify.app/img/logo.png" style="width:auto; height:60px" alt="IPTV Player"></a>
-<a href="https://buddytv.netlify.app" target="_blank"><img src="https://buddytv.netlify.app/img/logo.png" style="width:auto; height:60px" alt="BuddyTv"></a>
-<a href="https://m3uchecker.netlify.app" target="_blank"><img src="https://m3uchecker.netlify.app/img/logo.png" style="width:auto; height:60px" alt="M3U Checker"></a>
-<a href="https://birdseyetv.netlify.app" target="_blank"><img src="https://birdseyetv.netlify.app/img/logo.png" style="width:auto; height:60px" alt="BirdseyeTV player"></a>
-<a href="https://circletv.netlify.app" target="_blank"><img src="https://circletv.netlify.app/img/logo.png" style="width:auto; height:60px" alt="CircleTV player"></a>
-<a href="https://bugsfreeweb.github.io/iptv" target="_blank"><img src="https://bugsfreeweb.github.io/iptv/img/logo.png" style="width:auto; height:60px" alt="IPTV player"></a>
-<a href="https://m3ueditor.netlify.app" target="_blank"><img src="https://m3ueditor.netlify.app/img/logo.png" style="width:auto; height:60px" alt="M3U Editor"></a>
-<a href="https://bugsfreeweb.github.io/WebIPTV" target="_blank"><img src="https://bugsfreeweb.github.io/iptv/img/logo.png" style="width:auto; height:60px" alt="Web IPTV"></a>
-
-
 
 ## 🎥 Custom HTML5 Video Player
 
-![video](https://github.com/quuen2024/m3u8/blob/queen/TIDAK-DIHARGAI.mp4)
+![image](https://raw.githubusercontent.com/quuen2024/logo/refs/heads/queen/drift3.jpg)
 
 > A **lightweight, customizable, and feature-rich** video player built using plain JavaScript and CSS. Includes essential video controls such as **play/pause, volume adjustment, speed control, fullscreen mode, theater mode, mini-player, and more**.
 
@@ -63,7 +48,7 @@
    ```html
    <link
      rel="stylesheet"
-     href="https://cdn.jsdelivr.net/gh/nexoscreator/html5-custom-video-player@v0.5.3/video-player.min.css"
+     href="https://raw.githubusercontent.com/nexoscreator/html5-custom-video-player/refs/heads/main/video-player.css"
    />
    ```
 
@@ -73,7 +58,7 @@
 
    ```html
    <script
-     src="https://cdn.jsdelivr.net/gh/nexoscreator/html5-custom-video-player@v0.5.3/video-player.min.js"
+     src="https://raw.githubusercontent.com/nexoscreator/html5-custom-video-player/refs/heads/main/video-player.js"
      defer
    ></script>
    ```
@@ -104,7 +89,7 @@ You can customize the **CSS styles** and **JavaScript functionality** according 
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/nexoscreator/html5-custom-video-player.git
+   git clone https://github.com/quuen2024/api11.git
    cd html5-custom-video-player
    ```
 
@@ -146,12 +131,12 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 ## 📬 Contact & Community
 
-💬 Join us on **Discord**: [Click Here](https://discord.gg/H7pVc9aUK2)  
-🐦 **Follow on Twitter**: [@nexoscreator](https://twitter.com/nexoscreator)  
-📧 **Email**: [contact@nexoscreator.tech](mailto:contact@nexoscreator.tech)
+💬 Join us on **Discord**: [Click Here](https://github.com/quuen2024/api11)  
+🐦 **Follow on Twitter**: [@nexoscreator](https://twitter.com/quuen)  
+📧 **Email**: [contact@nexoscreator.tech](mailto:contact@quuen)
 
 If you find this project helpful, please consider **starring ⭐ the repository** or **sponsoring 💖 on GitHub**!
 
 <p align="center">
-  Created with ❤️ by <a href="https://github.com/nexoscreator">@nexoscreator</a>
+  Created with ❤️ by <a href="https://github.com/quuen2024">@quuen</a>
 </p>
