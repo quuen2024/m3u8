@@ -1,0 +1,8 @@
+#EXTM3U
+#EXT-X-VERSION:1
+#EXT-X-MEDIA-SEQUENCE:1
+#EXT-X-TARGETDURATION:1
+#EXT-X-DISCONTINUITY-SEQUENCE:2
+#EXT-X-ALLOW-CACHE:NO
+#EXTINF:1,
+http://premium-serv.xyz:80/play/live.php?mac=00:1A:79:72:F4:A9&stream=225966&extension=ts&play_token=evtMHWXqBz
