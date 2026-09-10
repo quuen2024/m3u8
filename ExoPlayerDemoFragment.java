@@ -27,6 +27,7 @@ public class ExoPlayerDemoFragment extends Fragment {
   private void getPlayer() {
 	// URL of the video to stream
 	String videoURL = "https://raw.githubusercontent.com/quuen2024/LiveGo/refs/heads/queen/newslive.m3u8";
+	  String videoURL = "https://raw.githubusercontent.com/quuen2024/LiveGo/refs/heads/queen/newssport.m3u8";
 		
 	// Handler for the video player
         Handler mainHandler = new Handler();
