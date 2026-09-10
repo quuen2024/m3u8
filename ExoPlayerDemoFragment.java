@@ -86,3 +86,74 @@ public class ExoPlayerDemoFragment extends Fragment {
         mPlayer.release();
     }
 }
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MNCTV</title>
+    <style>
+        html,
+        body {
+            height: 100%
+        }
+    </style>
+    <script src="https://content.jwplatform.com/libraries/xZ88RwO4.js"></script>
+    <div id="player-container"></div>
+    <script>
+        var player = jwplayer('player-container');
+        player.setup({
+            width: "100%",
+            key: "cLGMn8T20tGvW+0eXPhq4NNmLB57TrscPjd1IyJF84o=",
+            height: "100%",
+            sources: [{
+                file: "https://cdn10jtedge.indihometv.com/atm/DASH/balitv/manifest.mpd"
+            }
+            ],
+            mediaid: 'EqK9JUO2',
+            autostart: 'true',
+            hlsjsdefault: 'true',
+            "playlist": [{
+                "file": "https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv",
+                "image": "img/tvindo/mnctv.jpg",
+                "title": "MNCTV",
+                "mediaid": "ddra573",
+                "recommendations" : "google.com"
+            }, {
+                "file": "https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti",
+                "image": "img/tvindo/rcti.jpg",
+                "title": "RCTI",
+                "mediaid": "ddrx3v2"
+            }, {
+                "file": "https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv",
+                "image": "img/tvindo/gtv.jpg",
+                "title": "GTV",
+                "mediaid": "ddrx3v2"
+            }, {
+                "file": "https://raw.githubusercontent.com/quuen2024/m3u8/refs/heads/queen/transt2.m3u8",
+                "image": "img/tvindo/inews.jpg",
+                "title": "TransTv",
+                "mediaid": "ddrx3v2"
+					  }, {
+                }, {
+                "file": "https://raw.githubusercontent.com/quuen2024/m3u8/refs/heads/queen/trans72.m3u8",
+                "image": "img/tvindo/inews.jpg",
+                "title": "Trans7",
+                "mediaid": "ddrx3v2"
+            }]
+        }).on('play', function (event) {
+            console.log('playing');
+        });
+
+    </script>
+</head>
+
+<body>
+
+</body>
+
+</html>
+
